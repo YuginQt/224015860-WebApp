@@ -1,2 +1,2 @@
 # 224015860-WebApp
-Repository for Wed Application Development
+Repository for Web Application Development
